@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
