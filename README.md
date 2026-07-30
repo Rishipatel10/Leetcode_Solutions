@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
