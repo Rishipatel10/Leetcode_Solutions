@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1470-shuffle-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
