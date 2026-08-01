@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
