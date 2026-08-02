@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0198-house-robber) |
 ## Database
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
