@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3895-count-digit-appearances](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3895-count-digit-appearances](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
