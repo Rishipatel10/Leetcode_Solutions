@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
