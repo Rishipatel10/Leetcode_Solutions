@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
