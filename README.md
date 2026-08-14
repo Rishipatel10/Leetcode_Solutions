@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
