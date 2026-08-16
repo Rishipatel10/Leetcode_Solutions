@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1901-find-a-peak-element-ii](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
 |  |
