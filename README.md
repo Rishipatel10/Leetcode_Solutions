@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Recursion
 |  |
