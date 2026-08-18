@@ -1,6 +1,6 @@
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
-        maxi = 5000
+        maxi = 3000
         ans = []
         for i in range(1,maxi):
             if i not in arr:
