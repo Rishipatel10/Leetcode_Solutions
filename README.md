@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Quickselect
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
