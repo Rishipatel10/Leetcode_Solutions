@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
+| [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
