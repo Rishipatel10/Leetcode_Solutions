@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
