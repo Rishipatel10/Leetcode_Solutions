@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
