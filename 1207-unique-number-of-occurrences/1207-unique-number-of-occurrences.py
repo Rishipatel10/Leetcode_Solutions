@@ -7,7 +7,6 @@ class Solution:
         ans = []
         for n,c in freq.items():
             ans.append(c)
-        ans.sort()
         if len(ans) != len(set(ans)):
             return False
         return True
