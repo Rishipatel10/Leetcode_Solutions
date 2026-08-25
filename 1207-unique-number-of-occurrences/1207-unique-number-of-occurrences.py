@@ -8,7 +8,6 @@ class Solution:
         for n,c in freq.items():
             ans.append(c)
         ans.sort()
-        for i in range(len(ans)-1):
-            if ans[i] == ans[i+1]:
-                return False
+        if len(ans) != len(set(ans)):
+            return False
         return True
