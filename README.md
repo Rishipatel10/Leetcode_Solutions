@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
