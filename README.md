@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Prefix Sum
 |  |
 | ------- |
