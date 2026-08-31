@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0551-student-attendance-record-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
