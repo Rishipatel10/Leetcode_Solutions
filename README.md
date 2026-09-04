@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
