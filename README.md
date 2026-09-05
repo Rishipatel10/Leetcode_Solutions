@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
