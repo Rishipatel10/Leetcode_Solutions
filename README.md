@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
+| [3978-unique-middle-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |
