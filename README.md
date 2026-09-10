@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
