@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -492,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
