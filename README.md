@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1321-restaurant-growth) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
