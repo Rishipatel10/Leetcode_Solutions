@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
@@ -527,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
