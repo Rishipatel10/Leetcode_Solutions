@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0551-student-attendance-record-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
+| [1189-maximum-number-of-balloons](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
