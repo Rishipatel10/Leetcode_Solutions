@@ -1,12 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        ans = defaultdict(int)
-
+        count = {}
         for i in nums:
-            ans[i] += 1
-
-        for i in nums:
-            if ans[i] == 1:
-                return i
+            if i in count:
+                count[i] += 1
+            else:
+                count[i] = 1
+        for n , c in count.items():
+            if c == 1:
+                return n
 
         
