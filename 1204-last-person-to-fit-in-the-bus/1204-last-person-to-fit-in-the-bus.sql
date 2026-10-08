@@ -1,9 +1,13 @@
 # Write your MySQL query statement below
-select q1.person_name
-from Queue q1
-join Queue q2
-on q2.turn <= q1.turn
-group by q1.turn, q1.person_name
-having sum(q2.weight) <= 1000
-order by q1.turn desc
-limit 1;
+
+with high_weight as(
+    select 
+        *,
+        sum(weight) over(order by turn) as rank_sum
+    from queue
+)
+select person_name
+from high_weight
+where rank_sum <= 1000
+order by turn desc
+limit 1
