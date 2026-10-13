@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2739-total-distance-traveled) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2739-total-distance-traveled](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2739-total-distance-traveled) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
