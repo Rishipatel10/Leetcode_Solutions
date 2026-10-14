@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2278-percentage-of-letter-in-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2315-count-asterisks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
