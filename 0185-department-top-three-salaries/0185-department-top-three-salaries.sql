@@ -1,14 +1,16 @@
 # Write your MySQL query statement below
+with high_sal as(
+    select 
+        *,
+        dense_rank() over(partition by departmentId order by salary desc) as rnk
+    from Employee
+)
+
 select 
     d.name as Department,
-    e.name as Employee,
-    e.salary
-from Employee e
+    h.name as Employee,
+    h.Salary
+from high_sal h
 join Department d
-on e.departmentId = d.id
-where 3 > (
-    select count(distinct e2.salary)
-    from employee e2
-    where e2.departmentid = e.departmentid
-    and e2.salary > e.salary
-);;
+on h.departmentId = d.id
+where rnk <= 3
