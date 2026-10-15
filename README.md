@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -637,4 +639,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
