@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2652-sum-multiples) |
