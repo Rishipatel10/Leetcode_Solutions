@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
