@@ -1,10 +1,11 @@
 # Write your MySQL query statement below
 with high_sal as(
-    select 
+    select
         *,
-        dense_rank() over(order by salary desc) as sal
+        dense_rank() over(order by salary desc) as rnk
     from Employee
 )
-select max(salary) as SecondHighestSalary
+
+select max(salary) as SecondHighestSalary 
 from high_sal
-where sal = 2
+where rnk = 2
