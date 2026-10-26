@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2315-count-asterisks) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
+| [2810-faulty-keyboard](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2739-total-distance-traveled) |
+| [2810-faulty-keyboard](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3174-clear-digits) |
