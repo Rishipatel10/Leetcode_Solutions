@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1528-shuffle-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
