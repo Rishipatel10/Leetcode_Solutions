@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
+| [3330-find-the-original-typed-string-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
