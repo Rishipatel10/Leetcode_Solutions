@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1816-truncate-sentence) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [3903-smallest-stable-index-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
