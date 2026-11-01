@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
