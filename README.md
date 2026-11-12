@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
+| [2788-split-strings-by-separator](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
