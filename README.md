@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-find-the-original-typed-string-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3931-check-adjacent-digit-differences) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3894-traffic-signal-color) |
 | [4020-elevator-requests-i](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
 ## Matrix
