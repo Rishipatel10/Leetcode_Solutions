@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
