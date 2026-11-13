@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2788-split-strings-by-separator) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2716-minimize-string-length) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3046-split-the-array](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3046-split-the-array) |
 | [3978-unique-middle-element](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/3978-unique-middle-element) |
 ## Quickselect
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
 |  |
