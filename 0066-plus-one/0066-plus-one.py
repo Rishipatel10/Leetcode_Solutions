@@ -3,7 +3,6 @@ class Solution:
         s = ""
         for i in range(len(digits)):
             s += str(digits[i])
-        n  = 0
         n = int(s) + 1
         ans = str(n)
         arr = []
