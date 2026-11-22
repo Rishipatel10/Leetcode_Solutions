@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/Rishipatel10/Leetcode_Solutions/tree/master/2315-count-asterisks) |
