@@ -1,13 +1,14 @@
 # Write your MySQL query statement below
-
-with high_weight as(
-    select 
+with last_fit as(
+    select
         *,
-        sum(weight) over(order by turn) as rank_sum
-    from queue
+        sum(weight) over(order by turn) as total_sum
+    from Queue
 )
-select person_name
-from high_weight
-where rank_sum <= 1000
+
+select
+    person_name
+from last_fit
+where total_sum <= 1000
 order by turn desc
 limit 1
